@@ -1,5 +1,4 @@
 [![MasterHead](https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg)
-[![MasterHead](https://www.keycdn.com/img/support/full-stack-development-lg@2x.webp)
 <h1 align="center">Hi 👋, I'm Yusuf Ertürk</h1>
 <h3 align="center">Junior .Net Developer</h3>
 
