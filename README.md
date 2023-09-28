@@ -1,4 +1,4 @@
-[![MasterHead](https://worldscholarshipvault.com/wp-content/uploads/2022/12/OIP-2022-12-06T152837.496.jpg)
+[![MasterHead](https://www.aegissofttech.com/articles/images/reasons-for-hiring-dot-net-developers.jpg)
 <h1 align="center">Hi 👋, I'm Yusuf Ertürk</h1>
 <h3 align="center">Junior .Net Developer</h3>
 
