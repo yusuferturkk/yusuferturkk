@@ -1,4 +1,4 @@
-[![MasterHead](https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg)
+[![MasterHead](https://worldscholarshipvault.com/wp-content/uploads/2022/12/OIP-2022-12-06T152837.496.jpg)
 <h1 align="center">Hi 👋, I'm Yusuf Ertürk</h1>
 <h3 align="center">Junior .Net Developer</h3>
 
