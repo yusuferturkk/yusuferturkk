@@ -1,4 +1,3 @@
-[![MasterHead](https://www.aegissofttech.com/articles/images/reasons-for-hiring-dot-net-developers.jpg)
 <h1 align="center">Hi 👋, I'm Yusuf Ertürk</h1>
 <h3 align="center">Junior .Net Developer</h3>
 
